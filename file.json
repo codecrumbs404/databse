@@ -103,5 +103,26 @@
       "size": 184,
       "type": "file"
     }
+  },
+  {
+    "maskedLink": "https://filesharepro.us.kg/b65551c6-5ca3-4227-b152-3d2489156681",
+    "originalLink": "https://store3.gofile.io/download/4e8497e5-e76c-4de9-a408-fb8ebc2437dc/memory-diagram-c.jpg",
+    "fileDetails": {
+      "createTime": 1737035285,
+      "downloadPage": "https://store3.gofile.io/d/j2E21z",
+      "guestToken": "6CBNCyYUwWVzttCJn4OVdXK22015imeR",
+      "id": "4e8497e5-e76c-4de9-a408-fb8ebc2437dc",
+      "md5": "cf924e51d7e836b49b3e0c75a4de7e3e",
+      "mimetype": "image/jpeg",
+      "modTime": 1737035285,
+      "name": "memory-diagram-c.jpg",
+      "parentFolder": "bd989ba8-a07b-4744-ba59-045bc8b03abe",
+      "parentFolderCode": "j2E21z",
+      "servers": [
+        "store3"
+      ],
+      "size": 28709,
+      "type": "file"
+    }
   }
 ]
