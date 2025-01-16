@@ -124,5 +124,26 @@
       "size": 28709,
       "type": "file"
     }
+  },
+  {
+    "maskedLink": "https://filesharepro.us.kg/ce34d4db-dc1a-4466-9df5-fb12a2aa51ba",
+    "originalLink": "https://store3.gofile.io/download/6437912f-cb36-4d9a-8516-66f177cdc0b8/1_t0b8BpkFZSnV5mGmA8jNiA.png",
+    "fileDetails": {
+      "createTime": 1737035512,
+      "downloadPage": "https://store3.gofile.io/d/eN1QVl",
+      "guestToken": "UQIIMDABSwYKFSLlb6yjtfv6g5Lo3Ttn",
+      "id": "6437912f-cb36-4d9a-8516-66f177cdc0b8",
+      "md5": "2916509a060790a92d027221d5375b3d",
+      "mimetype": "image/png",
+      "modTime": 1737035512,
+      "name": "1_t0b8BpkFZSnV5mGmA8jNiA.png",
+      "parentFolder": "da190285-ff5b-49db-b155-ad6cc1d3d780",
+      "parentFolderCode": "eN1QVl",
+      "servers": [
+        "store3"
+      ],
+      "size": 344572,
+      "type": "file"
+    }
   }
 ]
