@@ -1,1 +1,21 @@
-
+[
+  {
+    "maskedLink": "f147ca90-9d32-4119-9aa2-db47843f2362",
+    "originalLink": "https://gofile.io/download/web/ec6910af-3157-4551-9803-79ea9681f2e3/certificate.pdf",
+    "fileDetails": {
+      "createTime": 1737025037,
+      "downloadPage": "https://gofile.io/d/EjzF5W",
+      "guestToken": "6JgdpAcgTEuadm7y2vTSmobNW9aRwOto",
+      "id": "2d5c0df2-7ab5-48d9-a821-2cf8bd5afafd",
+      "md5": "b2f1bf49c9a174a6564d28a11b119382",
+      "mimetype": "application/pdf",
+      "modTime": 1737025037,
+      "name": "certificate.pdf",
+      "parentFolder": "ec6910af-3157-4551-9803-79ea9681f2e3",
+      "parentFolderCode": "EjzF5W",
+      "servers": ["store3"],
+      "size": 154445,
+      "type": "file"
+    }
+  }
+]
