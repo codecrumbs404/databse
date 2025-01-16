@@ -145,5 +145,26 @@
       "size": 344572,
       "type": "file"
     }
+  },
+  {
+    "maskedLink": "https://filesharepro.us.kg/bcda9aaf-8692-4239-9534-1cb986071500",
+    "originalLink": "https://store3.gofile.io/download/17110c29-df21-4e5e-82b2-a11019d872ad/im-working-on-a-basic-python-cheat-sheet-would-you-give-me-v0-316c2w703kw91.webp",
+    "fileDetails": {
+      "createTime": 1737035987,
+      "downloadPage": "https://store3.gofile.io/d/iRMsnu",
+      "guestToken": "fXIY3Ma2Qzv3rSyR9EKLB73j2PpFHRWQ",
+      "id": "17110c29-df21-4e5e-82b2-a11019d872ad",
+      "md5": "85f6a045276e9111ada5bfd52c953af0",
+      "mimetype": "image/webp",
+      "modTime": 1737035987,
+      "name": "im-working-on-a-basic-python-cheat-sheet-would-you-give-me-v0-316c2w703kw91.webp",
+      "parentFolder": "f0e53770-162f-48db-bf14-1c98bdbced43",
+      "parentFolderCode": "iRMsnu",
+      "servers": [
+        "store3"
+      ],
+      "size": 68950,
+      "type": "file"
+    }
   }
 ]
