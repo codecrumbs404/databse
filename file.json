@@ -61,5 +61,26 @@
       "size": 655,
       "type": "file"
     }
+  },
+  {
+    "maskedLink": "177cf9d8-9945-4e8b-85d2-70036d28e006",
+    "originalLink": "https://store3.gofile.io/download/38be7e37-b389-4be3-984d-11224ffdd685/url.json",
+    "fileDetails": {
+      "createTime": 1737034468,
+      "downloadPage": "https://store3.gofile.io/d/Q5u2xT",
+      "guestToken": "EhigiJ5T8HVdYkENSCD1QbcA49DojI4q",
+      "id": "38be7e37-b389-4be3-984d-11224ffdd685",
+      "md5": "88da8f7da231d0f9ee215dd2478a7c89",
+      "mimetype": "application/json",
+      "modTime": 1737034468,
+      "name": "url.json",
+      "parentFolder": "fecac03a-7615-4f4d-835c-826500516131",
+      "parentFolderCode": "Q5u2xT",
+      "servers": [
+        "store3"
+      ],
+      "size": 268,
+      "type": "file"
+    }
   }
 ]
