@@ -82,5 +82,26 @@
       "size": 268,
       "type": "file"
     }
+  },
+  {
+    "maskedLink": "https://filesharepro.us.kg/7a59fcfa-8db2-4262-a744-d2c8b53a8c6f",
+    "originalLink": "https://store3.gofile.io/download/529b71c4-db97-4bea-a301-4ac5f4e9696a/urls.py",
+    "fileDetails": {
+      "createTime": 1737034879,
+      "downloadPage": "https://store3.gofile.io/d/RWMtoD",
+      "guestToken": "rdlP9bKIhqTlblxv66fhL9rqQxUHAJJL",
+      "id": "529b71c4-db97-4bea-a301-4ac5f4e9696a",
+      "md5": "9d7ad2252d95a1028e1351224f0067fe",
+      "mimetype": "text/plain; charset=utf-8",
+      "modTime": 1737034879,
+      "name": "urls.py",
+      "parentFolder": "e6720650-8054-45c2-a005-45246eeb933d",
+      "parentFolderCode": "RWMtoD",
+      "servers": [
+        "store3"
+      ],
+      "size": 184,
+      "type": "file"
+    }
   }
 ]
