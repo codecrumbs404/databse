@@ -40,5 +40,26 @@
       "size": 348,
       "type": "file"
     }
+  },
+  {
+    "maskedLink": "https://filesharepro.us.kg/f52ca3ae-2395-4bd6-9fee-88174bb4c3f9",
+    "originalLink": "https://store3.gofile.io/download/0d87ac40-7cac-4a10-825b-045dd5faf5a9/requirements.txt",
+    "fileDetails": {
+      "createTime": 1737034208,
+      "downloadPage": "https://store3.gofile.io/d/MZHoeR",
+      "guestToken": "KS616WhQTL5UDFGGRX7kzjNqyX0KS9Cc",
+      "id": "0d87ac40-7cac-4a10-825b-045dd5faf5a9",
+      "md5": "4bd3dd81aaac2d68f683b7b50459fe6b",
+      "mimetype": "text/plain; charset=utf-8",
+      "modTime": 1737034208,
+      "name": "requirements.txt",
+      "parentFolder": "b16b27ba-28fc-4f22-a1e6-7cf1d604bc2c",
+      "parentFolderCode": "MZHoeR",
+      "servers": [
+        "store3"
+      ],
+      "size": 655,
+      "type": "file"
+    }
   }
 ]
