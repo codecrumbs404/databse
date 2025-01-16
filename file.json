@@ -1,4 +1,3 @@
-
 [
   {
     "maskedLink": "https://filesharepro.us.kg/c6b884a4-a078-4387-8720-4df1278554be",
@@ -18,6 +17,27 @@
         "store3"
       ],
       "size": 5196595,
+      "type": "file"
+    }
+  },
+  {
+    "maskedLink": "https://filesharepro.us.kg/d3195ccc-128e-4f4f-baa9-a859905da3c5",
+    "originalLink": "https://store3.gofile.io/download/7af94b7a-d313-4fd1-af11-a27582e3f479/vercel.json",
+    "fileDetails": {
+      "createTime": 1737034030,
+      "downloadPage": "https://store3.gofile.io/d/diPgmE",
+      "guestToken": "1dw5ePVSCjjBM9WxUvMECgZwsMQr1D32",
+      "id": "7af94b7a-d313-4fd1-af11-a27582e3f479",
+      "md5": "001f1119b603ffd43942c5de7c57c25a",
+      "mimetype": "application/json",
+      "modTime": 1737034030,
+      "name": "vercel.json",
+      "parentFolder": "9d42d658-7130-4bdf-8553-b7441c4c0fe0",
+      "parentFolderCode": "diPgmE",
+      "servers": [
+        "store3"
+      ],
+      "size": 348,
       "type": "file"
     }
   }
