@@ -166,5 +166,26 @@
       "size": 68950,
       "type": "file"
     }
+  },
+  {
+    "maskedLink": "https://filesharepro.us.kg/676acda1-3a22-4561-98f9-45ec68d3b0c0",
+    "originalLink": "https://store3.gofile.io/download/43a5dcac-d51d-48e0-b01f-949a566079f2/Page_1.jpg",
+    "fileDetails": {
+      "createTime": 1737036725,
+      "downloadPage": "https://store3.gofile.io/d/mu8lI1",
+      "guestToken": "NeLXMVtPv1yXZkf9oUgUHRjoaNOKIx4C",
+      "id": "43a5dcac-d51d-48e0-b01f-949a566079f2",
+      "md5": "718e92a7438692ebe5cd3d74d3599f4a",
+      "mimetype": "image/jpeg",
+      "modTime": 1737036725,
+      "name": "Page_1.jpg",
+      "parentFolder": "ed59c335-3e70-4242-a378-a83828a8680a",
+      "parentFolderCode": "mu8lI1",
+      "servers": [
+        "store3"
+      ],
+      "size": 123607,
+      "type": "file"
+    }
   }
 ]
