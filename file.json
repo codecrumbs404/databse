@@ -13,7 +13,9 @@
       "name": "certificate.pdf",
       "parentFolder": "ec6910af-3157-4551-9803-79ea9681f2e3",
       "parentFolderCode": "EjzF5W",
-      "servers": ["store3"],
+      "servers": [
+        "store3"
+      ],
       "size": 154445,
       "type": "file"
     }
@@ -32,9 +34,15 @@
       "name": "github-recovery-codes.txt",
       "parentFolder": "813fe516-8906-4a79-bc09-69755f4156a8",
       "parentFolderCode": "qSyVUn",
-      "servers": ["store3"],
+      "servers": [
+        "store3"
+      ],
       "size": 206,
       "type": "file"
     }
+  },
+  {
+    "maskedLink": "https://filesharepro.us.kg/08828623-3e36-4679-bbda-1cbdb8f58567",
+    "originalLink": "https://store3.gofile.io/download/web/2447312d-894e-46fc-96e3-964657ee8c49/WhatsApp Image 2025-01-07 at 12.25.18 AM.jpeg"
   }
 ]
